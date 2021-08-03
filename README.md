@@ -1,6 +1,6 @@
-<h1 align="centre">VCsMusicBot v5.0</h1>
+<h1 align="centre">VCsMusicBot v2.0</h1>
 
-### A bot that can play music on Telegram Group and Channel Voice Chats
+### A bot that can play music on Telegram Group and Channel Voice Chats. 
 
 <p align="center">
   <a href="https://github.com/PredatorHackerzZ/TeleRoid-MusicBot">
