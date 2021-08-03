@@ -3,7 +3,7 @@
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot">
+  <a href="https://github.com/PredatorHackerzZ/TeleRoid-MusicBot">
      <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot-red?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PredatorHackerzZ/TeleRoid-MusicBot&label=Profile%20views&color=0e75b6&style=flat" alt="PredatorHackerzZ" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PredatorHackerzZ/TeleRoid-MusicBot&label=Profile%20views&color=0e75b6&style=flat" alt="PredatorHackerzZ"> </p>
 
                 
 ## Give your 💙
@@ -22,12 +22,12 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/PredatorHackerzZ/VCsMusicBot/fork">
-    <img src="https://img.shields.io/github/forks/PredatorHackerzZ/VCsMusicBot?label=Fork&style=social">
+  <a href="https://github.com/PredatorHackerzZ/TeleRoid-MusicBot/fork">
+    <img src="https://img.shields.io/github/forks/PredatorHackerzZ/TeleRoid-MusicBot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/PredatorHackerzZ/GroupMusicBot">
-    <img src="https://img.shields.io/github/stars/PredatorHackerzZ/VCsMusicBot?style=social">
+  <a href="https://github.com/PredatorHackerzZ/TeleRoid-MusicBot">
+    <img src="https://img.shields.io/github/stars/PredatorHackerzZ/TeleRoid-MusicBot?style=social">
   </a>
 </p>
 
@@ -40,7 +40,7 @@ Click the below button to watch the video tutorial on deploying
 
 ### Deploy To Heroku 📡</h4>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/PredatorHackerzZ/VCsMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/PredatorHackerzZ/TeleRoid-MusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 ###  GET STRING SESSION FROM REPL RUN
 
